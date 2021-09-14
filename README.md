@@ -139,7 +139,7 @@ bilibili-match-prediction
 9. 本项目欢迎其他开发者参与贡献，基于本工具的二次开发，使用其他语言重写都没有什么问题，能在技术上给你带来帮助和收获就很好.
 10. 本项目遵守[MIT License](https://github.com/JunzhouLiu/bilibili-match-prediction/blob/main/LICENSE)，请各位知悉。
 
-## 致谢
+## 致谢 
 
 感谢 JetBrains 对本项目的支持。
 
